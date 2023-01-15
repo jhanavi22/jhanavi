@@ -1,5 +1,5 @@
 public class Apology {
-    public static void main(String[] args) {
+    public static void main(String args[]) {
         String boyfriendName = "Devansh";
         System.out.println("I am deeply sorry for my actions, " + boyfriendName + ". I know that I have hurt you and I regret it deeply. I understand if you want to break up with me, i mean it's logical and I respect your decision. I hope that you can forgive me. I am sorry for ruining us, I am really sorry for making so many mistakes and Iam really sorry to evercome in your life. I love you and I am willing to do whatever it takes to make things right between us. But it's ok if you want do not want to be with me. I really hoped that we would last forever, if not that atleast we lasted till my forever.");
     }
